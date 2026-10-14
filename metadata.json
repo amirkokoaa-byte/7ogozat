@@ -1,0 +1,6 @@
+{
+  "name": "نظام إدارة العيادات الطبية الشامل | ClinicCare Pro",
+  "description": "نظام متكامل واحترافي لإدارة العيادات والمراكز الطبية بتصميم زجاجي Aero Glass مع صلاحيات المستخدمين، سلامة الأسعار التاريخية، ومزامنة الأقراص المحلية والتقارير الرسمية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
